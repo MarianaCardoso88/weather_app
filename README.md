@@ -1,16 +1,17 @@
-# weather_app
+🌤️ WeatherApp: Seu Guia de Clima e Atividades 🏖️
+Equipe de Desenvolvimento: Gabriela Florencio, Ester Carlos, Mariana Cardoso
 
-A new Flutter project.
+🌟 Sobre o Projeto
+Bem-vindo ao WeatherApp! Este é o seu assistente pessoal de clima, que não só fornece previsões meteorológicas precisas com base na sua localização, mas também sugere atividades perfeitas para o dia, dependendo do clima. Quer saber se deve levar um guarda-chuva ou planejar um piquenique? Deixe o WeatherApp te guiar!
 
-## Getting Started
+🛠️ Tecnologias Utilizadas
+Framework: Flutter
+Gerenciamento de Estado: Bloc
+API de Clima: OpenWeatherMap
+Localização: Geolocator
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔍 Funcionalidades
+Localização Automática: O app detecta automaticamente sua localização atual.
+Previsão do Tempo: Informações detalhadas sobre o clima, incluindo temperatura e condições climáticas.
+Sugestões de Atividades: Sugestões de atividades baseadas no clima atual (Ex.: Dias ensolarados para piqueniques, dias chuvosos para maratonas de filmes).
+Interface Amigável: Design intuitivo e fácil de usar, com animações e ícones que melhoram a experiência do usuário.
